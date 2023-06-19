@@ -5,16 +5,18 @@
 <h3><p align="center"> Main functionality </p > </h3>
 
 
-<ul align = "center">
+<div align = "center">
+<ul>
   <li>Receiving/sending calls</li>
   <li>Viewing contacts</li>
   <li>Selecting videos to show</li>
   <li>Showing videos when receiving a call</li>
 </ul>
+</div>
 
 <h3><p align="center"> Additional functionality </p ></h3>
 
-<ul align = "center">
+<ul>
   <li>Video selection for each contact</li>
 </ul>
 
